@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+# for-my-future-self
+for my future self  es una aplicacion web desarrollada con angular que permita a los usuarios crear recordatorios personalizados para su futuro yo, ayudandoles a alcanzar sus metas y reflexionar sobre su crecimiento personal.
